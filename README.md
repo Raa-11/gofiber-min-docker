@@ -1,5 +1,4 @@
 ## Slim Docker images for your Go application
 
-[![Product Name Screen Shot][product-screenshot]]
 
-[product-screenshot]: images/ss.png
+![ss](https://user-images.githubusercontent.com/95842340/183296366-00468e20-c8cf-4857-9daa-5c7d1f6fe9cc.PNG)
