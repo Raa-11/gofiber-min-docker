@@ -2,4 +2,4 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-[product-screenshot]: img/ss.png
+[product-screenshot]: images/ss.png
